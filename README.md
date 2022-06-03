@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jphyun2019
 - 👀 I’m interested in: Web Apps, Frontend Dev
-- 🌱 I’m currently learning: Ruby/ROR
+- 🌱 I’m currently learning: React.js
 - 💞️ I’m looking to collaborate on: Web App, Mobile App
 - 📫 How to reach me: Discord- jonny.h#9467
 
