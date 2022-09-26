@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jphyun2019
-- 👀 I’m interested in: Web Apps, Frontend Dev
+- 👀 I’m interested in: Frontend Dev, Mobile App
 - 🌱 I’m currently learning: React.js
-- 💞️ I’m looking to collaborate on: Web App, Mobile App
+- 💞️ I’m looking to collaborate on: Gamne Development, Mobile App
 - 📫 How to reach me: Discord- jonny.h#9467, Email- jphyun2019@gmail.com
 
 
