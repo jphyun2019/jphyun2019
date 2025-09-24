@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jphyun2019
-- 👀 I’m interested in: Machine Learning, Robotics, Data Analysis
-- 🌱 I’m currently learning: PyTorch, Scikit-learn
-- 💞️ I’m looking to collaborate on: Game Development, Mobile App
+- 👀 I’m interested in: Robot Learning, Human-AI Teaming, Full-Stack Engineering
+- 🌱 I’m currently learning: CUDA, Deep Reinforcement Learning
+- 💞️ I’m looking to collaborate on: Robotics Research
 - 📫 How to reach me: Email- jonathan.hyun@duke.edu
 
 
